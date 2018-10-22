@@ -1,3 +1,7 @@
+# Reason for fork:
+The original of this package was here: https://github.com/gs-akhan/react-native-chooser
+However, it was no longer maintained, and we needed this bug: https://github.com/gs-akhan/react-native-chooser/issues/43 fixed for react native 0.57.1 support
+
 # React Native Chooser
 Simple DropDown menu for React Native App! Your Select Tag for React Native. Fully Customizable too.
 
